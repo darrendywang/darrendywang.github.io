@@ -4,7 +4,7 @@ title: Self Intro CSCI 103
 subtitle: Assignment due Feb. 13
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-thumbnail-img: /assets/img/ffrog.png
+thumbnail-img: /assets/img/ffrog.jpg
 tags: [test]
 comments: true
 ---
