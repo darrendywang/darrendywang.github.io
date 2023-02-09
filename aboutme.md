@@ -6,8 +6,6 @@ subtitle: Some basic info about me
 
 ### My name is Darren, I am
 
-![random pic] (https://darrendywang.github.io/assets/img/IMG-6821.jpg)
-
 - a Biology major (thesis on pollination networks) and Maritime Studies concentrator
 - happiest when fishing, mushroom foraging, gardening, or enjoying quiet outdoors activities
 
