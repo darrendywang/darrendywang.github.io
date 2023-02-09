@@ -4,6 +4,7 @@ title: Self Intro CSCI 103
 subtitle: Assignment due Feb. 13
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+thumbnail-img: /assets/img/ffrog.png
 tags: [test]
 comments: true
 ---
@@ -16,5 +17,5 @@ comments: true
 **What I hope to learn in the class**: I like to make stuff, so circuitry is of particular interest to me. I would also like to brush up on coding logic.  
 **Boring fact**: I tie my own flies for fly fishing.  
 
-![ffrog](https://darrendywang.github.io/assets/img/ffrog.jpg)
+![brook trout](https://darrendywang.github.io/assets/img/btrout.jpg)
 
