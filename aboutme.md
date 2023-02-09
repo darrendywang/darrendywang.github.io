@@ -4,6 +4,7 @@ title: About me
 subtitle: Some basic info about me
 ---
 
+! [Me with a calf] (/assets/img/IMG-6821.JPG)
 ### My name is Darren, I am
 
 - a Biology major (thesis on pollination networks) and Maritime Studies concentrator
