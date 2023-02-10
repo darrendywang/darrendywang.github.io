@@ -14,3 +14,5 @@ My sleep schedule is heavily light-dependent: I like my room to be dark when I s
 1. put a clock with an alarm inside a sleep mask
 2. hook that up to an LED
 3. make the LED start getting brighter ~30 minutes before I want to wake up
+
+So basically a sunrise clock but one that functions as an eyemask
