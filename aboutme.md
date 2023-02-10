@@ -17,5 +17,5 @@ My sleep schedule is heavily light-dependent: I like my room to be dark when I s
 
 So basically a sunrise clock but one that functions as an eyemask
 
-![MeInSeattle](https://darrendywang.github.io/assets/img/IMG-6821.jpg){: .mx-auto.d-block :}
+![MeWCow](https://darrendywang.github.io/assets/img/IMG-6821.jpg){: .mx-auto.d-block :}
 
