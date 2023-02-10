@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Some basic info about me
+subtitle: Some basic info about me 
 ---
 
 ### Why eTextiles?
