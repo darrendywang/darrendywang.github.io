@@ -16,3 +16,5 @@ My sleep schedule is heavily light-dependent: I like my room to be dark when I s
 3. make the LED start getting brighter ~30 minutes before I want to wake up
 
 So basically a sunrise clock but one that functions as an eyemask
+
+![MeInSeattle](https://darrendywang.github.io/assets/img/Seattle.jpg)
