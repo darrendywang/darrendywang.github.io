@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sewing Sampler
-subtitle: 7 Assigned + 2 My Choice
+subtitle: Assignment due Feb. 20
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
