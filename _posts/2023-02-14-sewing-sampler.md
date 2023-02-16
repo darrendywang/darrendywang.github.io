@@ -10,6 +10,7 @@ comments: true
 ---
 
 **My takeaway tip**: Make sure that the anchor knot is actually seated against the fabric after the initial 3-5 stitches. A few times I would be sewing along, flip the fabric, and realize that I needed to pull some stiches out since the beginning of the stitching was not secured properly.  
-Both of the stitches I chose were learned from *Cutesy Crafts* on YouTube.  
+**Where I learend the stitches from**: *Cutesy Crafts* on YouTube.  
+**What I enjoyed the most**: Sewing is relaxing. Nice to validate myself on my past attempts at mending my own clothing when I realized that the random stitches I used were legit and have names.
 ![Sample Front](https://darrendywang.github.io/assets/img/stitchPracticeFront.jpg)  
 ![Sample Back](https://darrendywang.github.io/assets/img/stitchPracticeBack.jpg)
