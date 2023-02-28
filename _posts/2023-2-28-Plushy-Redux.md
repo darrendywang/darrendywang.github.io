@@ -5,7 +5,7 @@ subtitle: Assignment due Mar. 1
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Assignment]
-thumbnail-img: /assets/img/pfrog.jpg
+thumbnail-img: /assets/img/pfrog.JPG
 comments: true
 ---
 **Description of Assignment**: We redid the 3 LED plushy project but this time in C. Essentially practicing nested if statements to make 
