@@ -4,7 +4,7 @@ title: Circuit Plushy
 subtitle: Assignment due Feb. 27
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Assignment]
 thumbnail-img: /assets/img/wfrog.jpg
 comments: true
 ---
