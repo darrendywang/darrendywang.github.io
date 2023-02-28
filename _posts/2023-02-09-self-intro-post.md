@@ -5,7 +5,7 @@ subtitle: Assignment due Feb. 13
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/ffrog.jpg
-tags: [test]
+tags: [Assignment]
 comments: true
 ---
 
