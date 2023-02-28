@@ -4,7 +4,7 @@ title: Sweater Weather "if" Conditional
 subtitle: Assignment due Feb. 23
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Assignment]
 thumbnail-img: /assets/img/gfrog.jpg
 comments: true
 ---
