@@ -11,7 +11,7 @@ comments: true
 **Description of Assignment**: We wrote an arduino program that lights up an RGB LED with a random color everytime a button is pressed.
 The light must stay on the same color until the switch is released
   
-![flashBulb](https://darrendywang.github.io/assets/img/randomColor.jpg)  
+![randomColor](https://darrendywang.github.io/assets/img/randomColor.jpg)  
 
 
 **Tip**: Having a Serial output for this assignment really helped since I could check whether I was getting
