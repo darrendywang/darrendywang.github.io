@@ -10,4 +10,4 @@ comments: true
 ---
 
   
-![projectProsopal](https://darrendywang.github.io/assets/img/Project_Proposal.jpg)  
+![projectProsopal](https://darrendywang.github.io/assets/img/projectProposal.jpg)  
