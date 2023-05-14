@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project: Nap Mask
+title: Nap Mask Project Report
 subtitle: Assignment due May 17
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
